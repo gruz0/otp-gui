@@ -1,24 +1,26 @@
-1. Install jruby first:
+Install Shoes first: http://shoesrb.com
+
+Then install jruby via RVM (or your preferred method):
 ```
 rvm install jruby
 ```
 
-2. Switch to jRuby in current console:
+Switch to jRuby in current console:
 ```
 rvm use jruby
 ```
 
-3. Install Bundler:
+Install Bundler:
 ```
 gem install bundler
 ```
 
-4. Install all required gems:
+Install all required gems:
 ```
 bundle install
 ```
 
-5. Start the application:
+Start the application:
 ```
 ./gui.rb
 ```
