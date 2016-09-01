@@ -1,0 +1,14 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    shoes (3.0.1)
+
+PLATFORMS
+  java
+  ruby
+
+DEPENDENCIES
+  shoes
+
+BUNDLED WITH
+   1.12.5
